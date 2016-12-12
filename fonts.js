@@ -56,7 +56,7 @@ var allFonts = [{
     "used": ["Web", "Mobile", "Print"],
     "weights": ["Regular"],
     "repo": "NoonFont",
-    "CDNfileName": "Noon.css",
+    "CDNfileName": "noon.css",
     "donationID": "fcWa"
 }, {
     "published": true,
