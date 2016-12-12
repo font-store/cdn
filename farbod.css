@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'farbod';
+    src:url('fonts/farbod/Farbod-Regular.woff2') format('woff2'),
+    url('fonts/farbod/Farbod-Regular.woff') format('woff'),
+    url('fonts/farbod/Farbod-Regular.ttf') format('truetype'),
+	url('fonts/farbod/Farbod-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

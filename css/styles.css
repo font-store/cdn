@@ -1,0 +1,274 @@
+body {
+  background-color: #f3f3f3;
+  padding: 0;
+  margin: 0;
+  font: 14px/1.5 Lalezar;
+  color: #fff;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  margin: 0 0 20px;
+}
+
+p,
+ul,
+ol,
+table,
+pre,
+dl {
+  margin: 0 0 20px;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+a {
+  color: #39c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #069;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0px auto
+}
+
+h1 {
+  text-align: center;
+}
+
+#fontsList {
+  display: block;
+  position: relative;
+  margin: 100px 0px;
+}
+
+#fontsLis a {
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+a img {
+  display: block;
+  width: 100%;
+}
+
+.section {
+  flex :  0;
+  padding: 80px 0px;
+}
+
+#fontstore-box {
+  background: #f3f3f3;
+  padding: 70px 0 20px 0;
+}
+
+#fontstore-box .logo {
+  width: 350px;
+  display: block;
+  margin: 0 auto;
+}
+
+#fontstore-box .logoText {
+  display: block;
+  text-align: center;
+  font-family: GanjNameh;
+  font-size: 16px;
+  color: #434343;
+  line-height: 1;
+}
+
+#fontstore-box .logoText p{
+  margin: 10px 0;
+}
+
+#fontstore-box .fontStore-social-icon {
+  font-family: GanjNameh;
+  direction: ltr;
+  text-align: center;
+  margin: 30px auto 0;
+}
+
+#fontstore-box .fontStore-social-icon a {
+  font-size: 30px;
+  margin: 7px;
+  color: #656565;
+}
+
+#fontstore-box .fontStore-social-icon a:hover{
+  color:rgb(211, 78, 121);
+}
+
+/**********************************************************/
+#welcome {
+  background-color: #42454E;
+  color: #fff;
+}
+
+#welcome .logo {
+  width: 350px;
+  display: block;
+  margin: 0 auto;
+}
+
+#welcome h2 {
+  font-size: 25px;
+  color: #e4ad3c;
+}
+
+#welcome h1 {
+  font-size: 45px;
+  margin-top: 50px;
+}
+
+/**********************************************************/
+#about {
+  background: #f3f3f3;
+  color: #434343;
+}
+
+#about h1 {
+  font-size: 45px;
+  margin-bottom: 60px;
+}
+
+#about p {
+  font-family: shahab;
+  font-size: 16px;
+  margin: 0 20%;
+  text-indent: 30px;
+  text-align: 1.7;
+  padding: 5px 0;
+  text-align: justify;
+}
+/**********************************************************/
+#cdn-list {
+  background-color: #bdc3c7;
+  color:#434343;
+}
+
+#cdn-list h1 {
+  color: #434343;
+  font-size: 45px;
+}
+
+#font-lists {
+  margin: 100px 5%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+
+#font-lists .font-box{
+  
+  
+  box-shadow:0px 0px 4px 2px #939393;
+  flex: 1 1 auto;
+  min-height:100px;
+  
+  margin: 50px 50px;
+  border-radius:5px;
+  background-color: #f3f3f3;
+    display: block;
+  overflow: hidden;
+}
+
+#font-lists .font-box .font-title{
+  text-align: center;
+  font-size: 10em;
+  line-height: 1;
+  margin: 20px 0%;
+  display: block;
+  text-shadow: 1px 1px 2px #888;
+  color:#cf194c;
+  
+}
+
+
+#font-lists .font-box .font-link{
+  background-color: #fff;
+  direction: ltr;
+  font-size:15px;
+  color: darkred;
+  padding:8px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border:1px solid #999;
+  border-radius: 5px;
+box-shadow: 0px 0px 5px #999 inset;
+  margin: 15px 20px;
+  
+}
+#font-lists .font-box .font-sample{
+  margin: 5px 20px;
+    border:1px solid #999;
+  border-radius: 5px;
+box-shadow: 0px 0px 5px #999 inset;
+padding:15px 20px;
+background: #fbf5da;
+font-size:16px;
+line-height: 1.7;
+
+}
+#font-lists .font-box .fontInfo{
+   background: #d8d8d8;
+   display: flex;
+   flex-direction: row;
+   overflow: hidden;
+     border-radius:0px 0px 5px 5px ;
+     margin-top: 10px;
+     box-shadow: -1px 4px 4px -5px #000 inset;
+     font-family: ganjnameh;
+     padding:10px; 
+}
+#font-lists .font-box .fontInfo .col{
+  flex: 1 1 auto;
+}
+
+#font-lists .font-box .fontInfo .donate{
+  width: 80px;
+
+}
+
+#font-lists .font-box .fontInfo p{
+   margin: 0px 0px 5px 0px;
+}
+#font-lists .font-box .fontInfo li span{
+  font-weight: bold;
+
+}
+/**********************************************************/
+.fontl1ink {
+  width: 330px;
+  margin: 20px 10px;
+  display: block;
+  box-shadow: 2px 4px 5px #888;
+  border-radius: 10px;
+  border: 1px solid #aaa;
+  overflow: hidden;
+}
+
+.fontlink img {
+ border-radius: 10px;
+}
