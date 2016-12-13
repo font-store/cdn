@@ -76,22 +76,22 @@ var allFonts = [{
     "title": "یکان",
     "note": "فونتی برای تمام مصارف و کاربردها",
     "about": "",
-    "version": "فقط جهت نمایش بهتر در وب اصلاح شده است.(هماهنگ با استاندارد خانه فونت نمی‌باشد)",
+        "version": "اولین نسخه اصلاح شده برای وب است(به دلیل درخواست فراوان این فونت به مجموعه اضافه شده ات. و جز فونت‌های خانه فونت نیستند)",
     "used": ["Web", "Mobile", "Print", "User InterFace"],
     "weights": ["Regular", "Bold"],
     "repo": "YekanFont",
     "CDNfileName": "yekan.css",
-    "donationID": "uDag"
+    "donationID": ""
 }, {
     "published": true,
     "name": "Nazanin",
     "title": "نازنین",
     "note": "فونتی برای تمام مصارف و کاربردها",
     "about": "",
-    "version": "فقط جهت نمایش بهتر در وب اصلاح شده است.(هماهنگ با استاندارد خانه فونت نمی‌باشد)",
+    "version": "اولین نسخه اصلاح شده برای وب است(به دلیل درخواست فراوان این فونت به مجموعه اضافه شده ات. و جز فونت‌های خانه فونت نیستند)",
     "used": ["Web", "Mobile", "Print", "User InterFace"],
     "weights": ["Regular", "Bold"],
     "repo": "Nazanin",
     "CDNfileName": "nazanin.css",
-    "donationID": "uDag"
+    "donationID": ""
 }]
