@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Noon';
-    src:url('fonts/noon/noon-Regular.woff2') format('woff2'),
-    url('fonts/noon/noon-Regular.woff') format('woff'),
-    url('fonts/noon/noon-Regular.ttf') format('truetype'),
-	url('fonts/noon/noon-Regular.otf') format('opentype');
+    src:url('fonts/noon/Noon-Regular.woff2') format('woff2'),
+    url('fonts/noon/Noon-Regular.woff') format('woff'),
+    url('fonts/noon/Noon-Regular.ttf') format('truetype'),
+	url('fonts/noon/Noon-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
