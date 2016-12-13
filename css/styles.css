@@ -332,3 +332,34 @@ line-height: 1.7;
 .fontlink img {
  border-radius: 10px;
 }
+
+
+/**********************************************************/
+footer{
+   background-color: #42454E;
+  color: #fff; 
+  text-align: center;
+  padding: 30px 15px 15px 15px;
+}
+
+footer p {
+  font-size:14px;
+  font-family: ganjnameh; 
+}
+
+footer .fontStore-social-icon {
+  
+  direction: ltr;
+  text-align: center;
+  margin: 20px auto 0;
+}
+
+footer .fontStore-social-icon a {
+  font-size: 20px;
+  margin: 7px;
+  color: #fff;
+}
+
+footer .fontStore-social-icon a:hover{
+  color:rgb(211, 78, 121);
+}
