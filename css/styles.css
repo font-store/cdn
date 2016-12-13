@@ -8,6 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  min-width: 800px;
 }
 
 h1,
@@ -243,12 +244,42 @@ line-height: 1.7;
      padding:10px; 
 }
 #font-lists .font-box .fontInfo .col{
-  flex: 1 1 auto;
+  flex: 1 1 0;
+}
+#font-lists .font-box .fontInfo .donate{
+  align-self:center;
+  
+}
+#font-lists .font-box .fontInfo .donate a{
+  display: flex;
+  flex-direction: row;
+  background-color: #ff0063;
+  overflow: hidden;
+  margin: 0px auto;
+  border:2px solid #fff;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px #999;
+  padding: 5px 10px;
+  width:250px;
+  align-items:center;
+}
+#font-lists .font-box .fontInfo .donate a img{
+  height: 70px;
+  width: 70px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+
+}
+#font-lists .font-box .fontInfo .donate a p{
+  font-size: 26px;
+  font-family: Lalezar;
+  text-align: center;
+  color: #fff;
+  flex: 1;
 }
 
-#font-lists .font-box .fontInfo .donate{
-  width: 80px;
-
+#font-lists .font-box .fontInfo .donate a:hover p{
+  color: yellow;
 }
 
 #font-lists .font-box .fontInfo p{
@@ -259,6 +290,26 @@ line-height: 1.7;
 
 }
 /**********************************************************/
+#donations{
+  background:#636a7e;
+}
+
+
+#donations h1 {
+  font-size: 45px;
+  margin-bottom: 60px;
+}
+
+#donations p {
+  font-family: shahab;
+  font-size: 16px;
+  margin: 0 20%;
+  text-indent: 30px;
+  text-align: 1.7;
+  padding: 5px 0;
+  text-align: justify;
+}
+
 .fontl1ink {
   width: 330px;
   margin: 20px 10px;
