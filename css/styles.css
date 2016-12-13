@@ -175,7 +175,7 @@ a img {
 }
 
 #font-lists {
-  margin: 100px 5%;
+  margin: 70px 5%;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -228,10 +228,14 @@ box-shadow: 0px 0px 5px #999 inset;
 box-shadow: 0px 0px 5px #999 inset;
 padding:15px 20px;
 background: #fbf5da;
-font-size:16px;
-line-height: 1.7;
+font-size:15px;
+line-height: 1.6;
 
 }
+#font-lists .font-box .font-sample p {
+  margin: 5px;
+}
+
 #font-lists .font-box .fontInfo{
    background: #d8d8d8;
    display: flex;
@@ -291,8 +295,8 @@ line-height: 1.7;
 }
 /**********************************************************/
 #donations{
-  background:#636a7e;
-  color: #f2efe1;
+  background:#fff;
+  color: #434343;
 }
 
 
@@ -309,10 +313,10 @@ line-height: 1.7;
 
 #donations p {
   font-family: shahab;
-  font-size: 16px;
+  font-size: 15px;
   margin: 0 20%;
   text-indent: 30px;
-  line-height: 1.7;
+  line-height: 1.6;
   padding: 5px 0;
   text-align: justify;
 -webkit-text-stroke-width: 0.002em;
