@@ -303,12 +303,14 @@ line-height: 1.6;
 #donations h1 {
   font-size: 45px;
   margin-bottom: 40px;
+  color: #fe195a;
 }
 
 #donations h2 {
   font-size: 35px;
   margin-top: 30px;
   margin-bottom: 30px;
+  color: #1d6cae;
 }
 
 #donations p {
