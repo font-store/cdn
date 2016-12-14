@@ -76,7 +76,7 @@ a img {
 }
 
 .section {
-  flex :  0;
+  flex: 0;
   padding: 80px 0px;
 }
 
@@ -100,7 +100,7 @@ a img {
   line-height: 1;
 }
 
-#fontstore-box .logoText p{
+#fontstore-box .logoText p {
   margin: 10px 0;
 }
 
@@ -117,11 +117,13 @@ a img {
   color: #656565;
 }
 
-#fontstore-box .fontStore-social-icon a:hover{
-  color:rgb(211, 78, 121);
+#fontstore-box .fontStore-social-icon a:hover {
+  color: rgb(211, 78, 121);
 }
 
+
 /**********************************************************/
+
 #welcome {
   background-color: #42454E;
   color: #fff;
@@ -143,7 +145,9 @@ a img {
   margin-top: 50px;
 }
 
+
 /**********************************************************/
+
 #about {
   background: #f3f3f3;
   color: #434343;
@@ -163,10 +167,13 @@ a img {
   padding: 5px 0;
   text-align: justify;
 }
+
+
 /**********************************************************/
+
 #cdn-list {
   background-color: #bdc3c7;
-  color:#434343;
+  color: #434343;
 }
 
 #cdn-list h1 {
@@ -181,100 +188,97 @@ a img {
   justify-content: center;
 }
 
-
-#font-lists .font-box{
-  
-  
-  box-shadow:0px 0px 4px 2px #939393;
+#font-lists .font-box {
+  box-shadow: 0px 0px 4px 2px #939393;
   flex: 1 1 auto;
-  min-height:100px;
-  
+  min-height: 100px;
   margin: 50px 50px;
-  border-radius:5px;
+  border-radius: 5px;
   background-color: #f3f3f3;
-    display: block;
+  display: block;
   overflow: hidden;
 }
 
-#font-lists .font-box .font-title{
+#font-lists .font-box .font-title {
   text-align: center;
   font-size: 10em;
   line-height: 1;
   margin: 20px 0%;
   display: block;
   text-shadow: 1px 1px 2px #888;
-  color:#cf194c;
-  
+  color: #cf194c;
 }
 
-
-#font-lists .font-box .font-link{
+#font-lists .font-box .font-link {
   background-color: #fff;
   direction: ltr;
-  font-size:15px;
+  font-size: 15px;
   color: darkred;
-  padding:8px 20px;
+  padding: 8px 20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  border:1px solid #999;
+  border: 1px solid #999;
   border-radius: 5px;
-box-shadow: 0px 0px 5px #999 inset;
+  box-shadow: 0px 0px 5px #999 inset;
   margin: 15px 20px;
-  
 }
-#font-lists .font-box .font-sample{
-  margin: 5px 20px;
-    border:1px solid #999;
-  border-radius: 5px;
-box-shadow: 0px 0px 5px #999 inset;
-padding:15px 20px;
-background: #fbf5da;
-font-size:15px;
-line-height: 1.6;
 
+#font-lists .font-box .font-sample {
+  margin: 5px 20px;
+  border: 1px solid #999;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px #999 inset;
+  padding: 15px 20px;
+  background: #fbf5da;
+  font-size: 15px;
+  line-height: 1.6;
 }
+
 #font-lists .font-box .font-sample p {
   margin: 5px;
 }
 
-#font-lists .font-box .fontInfo{
-   background: #d8d8d8;
-   display: flex;
-   flex-direction: row;
-   overflow: hidden;
-     border-radius:0px 0px 5px 5px ;
-     margin-top: 10px;
-     box-shadow: -1px 4px 4px -5px #000 inset;
-     font-family: ganjnameh;
-     padding:10px; 
+#font-lists .font-box .fontInfo {
+  background: #d8d8d8;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  border-radius: 0px 0px 5px 5px;
+  margin-top: 10px;
+  box-shadow: -1px 4px 4px -5px #000 inset;
+  font-family: ganjnameh;
+  padding: 10px;
 }
-#font-lists .font-box .fontInfo .col{
+
+#font-lists .font-box .fontInfo .col {
   flex: 1 1 0;
 }
-#font-lists .font-box .fontInfo .donate{
-  align-self:center;
-  
+
+#font-lists .font-box .fontInfo .donate {
+  align-self: center;
 }
-#font-lists .font-box .fontInfo .donate a{
+
+#font-lists .font-box .fontInfo .donate a {
   display: flex;
   flex-direction: row;
   background-color: #ff0063;
   overflow: hidden;
   margin: 0px auto;
-  border:2px solid #fff;
+  border: 2px solid #fff;
   border-radius: 8px;
   box-shadow: 1px 1px 5px #999;
   padding: 5px 10px;
-  width:250px;
-  align-items:center;
+  width: 250px;
+  align-items: center;
 }
-#font-lists .font-box .fontInfo .donate a img{
+
+#font-lists .font-box .fontInfo .donate a img {
   height: 70px;
   width: 70px;
   border: 2px solid #fff;
   border-radius: 50%;
-
 }
-#font-lists .font-box .fontInfo .donate a p{
+
+#font-lists .font-box .fontInfo .donate a p {
   font-size: 26px;
   font-family: LalezarWeb;
   text-align: center;
@@ -282,23 +286,25 @@ line-height: 1.6;
   flex: 1;
 }
 
-#font-lists .font-box .fontInfo .donate a:hover p{
+#font-lists .font-box .fontInfo .donate a:hover p {
   color: yellow;
 }
 
-#font-lists .font-box .fontInfo p{
-   margin: 0px 0px 5px 0px;
+#font-lists .font-box .fontInfo p {
+  margin: 0px 0px 5px 0px;
 }
-#font-lists .font-box .fontInfo li span{
-  font-weight: bold;
 
+#font-lists .font-box .fontInfo li span {
+  font-weight: bold;
 }
+
+
 /**********************************************************/
-#donations{
-  background:#fff;
+
+#donations {
+  background: #fff;
   color: #434343;
 }
-
 
 #donations h1 {
   font-size: 45px;
@@ -321,8 +327,8 @@ line-height: 1.6;
   line-height: 1.6;
   padding: 5px 0;
   text-align: justify;
--webkit-text-stroke-width: 0.002em;
--webkit-text-stroke-color: #000;
+  -webkit-text-stroke-width: 0.002em;
+  -webkit-text-stroke-color: #000;
 }
 
 .fontl1ink {
@@ -336,25 +342,58 @@ line-height: 1.6;
 }
 
 .fontlink img {
- border-radius: 10px;
+  border-radius: 10px;
 }
 
 
 /**********************************************************/
-footer{
-   background-color: #42454E;
-  color: #fff; 
+
+#shareit {
+  background-color: #263238;
+  color: #cb9222;
+  overflow: hidden;
+}
+
+#shareit h1 {
+  font-size: 45px;
+  margin-bottom: 40px;
+}
+
+#shareit p {
+  font-family: shahab;
+  font-size: 18px;
+  margin: 0 20%;
+  text-indent: 30px;
+  line-height: 1.6;
+  padding: 5px 0;
+  text-align: justify;
+  color: #d8d8d8;
+}
+
+#share-box {
+  display: block;
+  direction: ltr;
+  margin: 20px 30%;
+  overflow: hidden;
+  text-align: center;
+}
+
+
+/**********************************************************/
+
+footer {
+  background-color: #42454E;
+  color: #fff;
   text-align: center;
   padding: 30px 15px 15px 15px;
 }
 
 footer p {
-  font-size:14px;
-  font-family: ganjnameh; 
+  font-size: 14px;
+  font-family: ganjnameh;
 }
 
 footer .fontStore-social-icon {
-  
   direction: ltr;
   text-align: center;
   margin: 20px auto 0;
@@ -366,15 +405,13 @@ footer .fontStore-social-icon a {
   color: #fff;
 }
 
-footer .fontStore-social-icon a:hover{
-  color:rgb(211, 78, 121);
+footer .fontStore-social-icon a:hover {
+  color: rgb(211, 78, 121);
 }
 
-
-
 @font-face {
-    font-family: 'LalezarWeb';
-    src:url('Lalezar-Regular.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'LalezarWeb';
+  src: url('Lalezar-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
 }
