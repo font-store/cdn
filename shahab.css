@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Shahab';
-    src:url('fonts/shahab/Shahab-Regular.woff2') format('woff2'),
-    url('fonts/shahab/Shahab-Regular.woff') format('woff'),
-    url('fonts/shahab/Shahab-Regular.ttf') format('truetype'),
-	url('fonts/shahab/Shahab-Regular.otf') format('opentype');
+    src:url('http://cdn.font-store.ir/fonts/shahab/Shahab-Regular.woff2') format('woff2'),
+    url('http://cdn.font-store.ir/fonts/shahab/Shahab-Regular.woff') format('woff'),
+    url('http://cdn.font-store.ir/fonts/shahab/Shahab-Regular.ttf') format('truetype'),
+	url('http://cdn.font-store.ir/fonts/shahab/Shahab-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }

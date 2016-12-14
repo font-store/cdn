@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Nika';
-    src:url('fonts/nika/Nika-Regular.woff2') format('woff2'),
-    url('fonts/nika/Nika-Regular.woff') format('woff'),
-    url('fonts/nika/Nika-Regular.ttf') format('truetype'),
-	url('fonts/nika/Nika-Regular.otf') format('opentype');
+    src:url('http://cdn.font-store.ir/fonts/nika/Nika-Regular.woff2') format('woff2'),
+    url('http://cdn.font-store.ir/fonts/nika/Nika-Regular.woff') format('woff'),
+    url('http://cdn.font-store.ir/fonts/nika/Nika-Regular.ttf') format('truetype'),
+	url('http://cdn.font-store.ir/fonts/nika/Nika-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }

@@ -1,18 +1,18 @@
 @font-face {
     font-family: 'nazanin';
-    src:url('fonts/nazanin/Nazanin-Regular.woff2') format('woff2'),
-    url('fonts/nazanin/Nazanin-Regular.woff') format('woff'),
-    url('fonts/nazanin/Nazanin-Regular.ttf') format('truetype'),
-	url('fonts/nazanin/Nazanin-Regular.otf') format('opentype');
+    src:url('http://cdn.font-store.ir/fonts/nazanin/Nazanin-Regular.woff2') format('woff2'),
+    url('http://cdn.font-store.ir/fonts/nazanin/Nazanin-Regular.woff') format('woff'),
+    url('http://cdn.font-store.ir/fonts/nazanin/Nazanin-Regular.ttf') format('truetype'),
+	url('http://cdn.font-store.ir/fonts/nazanin/Nazanin-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'nazanin';
-    src:url('fonts/nazanin/Nazanin-Bold.woff2') format('woff2'),
-    url('fonts/nazanin/Nazanin-Bold.woff') format('woff'),
-    url('fonts/nazanin/Nazanin-Bold.ttf') format('truetype'),
-	url('fonts/nazanin/Nazanin-Bold.otf') format('opentype');
+    src:url('http://cdn.font-store.ir/fonts/nazanin/Nazanin-Bold.woff2') format('woff2'),
+    url('http://cdn.font-store.ir/fonts/nazanin/Nazanin-Bold.woff') format('woff'),
+    url('http://cdn.font-store.ir/fonts/nazanin/Nazanin-Bold.ttf') format('truetype'),
+	url('http://cdn.font-store.ir/fonts/nazanin/Nazanin-Bold.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
