@@ -2,7 +2,7 @@ body {
   background-color: #f3f3f3;
   padding: 0;
   margin: 0;
-  font: 14px/1.5 Lalezar;
+  font: 14px/1.5 LalezarWeb;
   color: #fff;
   font-weight: 400;
   display: flex;
@@ -276,7 +276,7 @@ line-height: 1.6;
 }
 #font-lists .font-box .fontInfo .donate a p{
   font-size: 26px;
-  font-family: Lalezar;
+  font-family: LalezarWeb;
   text-align: center;
   color: #fff;
   flex: 1;
@@ -368,4 +368,13 @@ footer .fontStore-social-icon a {
 
 footer .fontStore-social-icon a:hover{
   color:rgb(211, 78, 121);
+}
+
+
+
+@font-face {
+    font-family: 'LalezarWeb';
+    src:url('Lalezar-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
