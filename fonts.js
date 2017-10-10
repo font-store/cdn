@@ -9,7 +9,7 @@ var allFonts = [{
     "weights": ["Regular"],
     "repo": "ShahabFont",
     "CDNfileName": "shahab.css",
-    "donationID": "uDag"
+    "donationID": "iEAI"
 }, {
     "published": true,
     "name": "Behdad",
@@ -21,7 +21,7 @@ var allFonts = [{
     "weights": ["Regular"],
     "repo": "BehdadFont",
     "CDNfileName": "behdad.css",
-    "donationID": "t95R"
+    "donationID": "TGCz"
 }, {
     "published": true,
     "name": "Nika",
@@ -33,7 +33,7 @@ var allFonts = [{
     "weights": ["Regular"],
     "repo": "NikaFont",
     "CDNfileName": "nika.css",
-    "donationID": "VWZB"
+    "donationID": "3nfs"
 }, {
     "published": true,
     "name": "Farbod",
@@ -45,7 +45,7 @@ var allFonts = [{
     "weights": ["Regular"],
     "repo": "FarbodFont",
     "CDNfileName": "farbod.css",
-    "donationID": "O3ub"
+    "donationID": "0dqW"
 }, {
     "published": true,
     "name": "Noon",
@@ -57,7 +57,7 @@ var allFonts = [{
     "weights": ["Regular"],
     "repo": "NoonFont",
     "CDNfileName": "noon.css",
-    "donationID": "fcWa"
+    "donationID": "dGT7"
 }, {
     "published": true,
     "name": "Ganjnameh",
@@ -69,7 +69,7 @@ var allFonts = [{
     "weights": ["Regular"],
     "repo": "GanjnamehFont",
     "CDNfileName": "ganjnameh.css",
-    "donationID": "a5ou"
+    "donationID": "pylv"
 }, {
     "published": true,
     "name": "Yekan",
